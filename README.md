@@ -13,19 +13,6 @@
 
 ---
 
-## 🌐 Connect with Me  
-
-<!-- [![Website - Light](./img/globe-light.svg)](#gh-light-mode-only)   -->
-<!-- [![Website - Dark](./img/globe-dark.svg)](#gh-dark-mode-only)   -->
-
-[![LinkedIn - Light](./img/linkedin-light.svg)](https://linkedin.com/in/pavankumarkadambala#gh-light-mode-only)  
-[![LinkedIn - Dark](./img/linkedin-dark.svg)](https://linkedin.com/in/pavankumarkadambala#gh-dark-mode-only)  
-
-[![Instagram - Light](./img/instagram-light.svg)](https://www.instagram.com/pavann._.kumarrr#gh-light-mode-only)  
-[![Instagram - Dark](./img/instagram-dark.svg)](https://www.instagram.com/pavann._.kumarrr#gh-dark-mode-only)
-
----
-
 ## 🧰 Tech Stack  
 
 ### 🧠 Programming & Scripting  
@@ -61,6 +48,29 @@
 <p align="left">  
   <img src="./img/Visual%20Studio%20Code%20(VS%20Code).svg" alt="VS Code" width="36px" style="padding-right:12px;" />  
 </p>
+
+---
+
+## 🌐 Connect with Me  
+
+<!-- [![Website - Light](./img/globe-light.svg)](#gh-light-mode-only)   -->
+<!-- [![Website - Dark](./img/globe-dark.svg)](#gh-dark-mode-only)   -->
+
+<span>
+  <a href="https://linkedin.com/in/pavankumarkadambala#gh-light-mode-only">
+    <img src="./img/linkedin-light.svg" height="30" />
+  </a>
+  <a href="https://linkedin.com/in/pavankumarkadambala#gh-dark-mode-only">
+    <img src="./img/linkedin-dark.svg" height="30" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/pavann._.kumarrr#gh-light-mode-only">
+    <img src="./img/instagram-light.svg" height="30" />
+  </a>
+  <a href="https://www.instagram.com/pavann._.kumarrr#gh-dark-mode-only">
+    <img src="./img/instagram-dark.svg" height="30" />
+  </a>
+</span>
 
 ---
 
