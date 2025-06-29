@@ -5,7 +5,7 @@
 
 ## 🚀 Developer 
 - 💻 Currently coding like there's no semicolon at the end
-- 🤖 training models by day, doomscrolling r/MachineLearning by night
+- 🤖 training models by day, doomscrolling r/DataScience by night
 - 🎯 Goal: Break fewer things... or at least break them better
 - ☕ Come for the code, stay for the chaos
 <!-- - 🛠️ Latest Project: **[Code Like a Pro, Cry Like a Human][project]** -->
