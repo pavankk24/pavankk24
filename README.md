@@ -1,15 +1,37 @@
 # 👋 Hi there, I'm **Pavan**  
-### *Turning coffee into code and bugs into features*
+### *Exploring everything from AI to rabbit holes on Reddit that started with a bug and ended with a conspiracy theory.*
 
 ---
 
-## 🚀 Developer | 🧠 Tech Enthusiast | 🎯 Lifelong Learner  
-
-- 💻 Currently coding like there's no semicolon at the end  
-- 📚 Exploring everything from **AI** to making the *perfect cup of coffee*  
-- 🎯 Goal: Break fewer things... or at least break them better  
-- 🧙 Fun Fact: I can debug code *and* flip pancakes simultaneously – multitasking wizardry  
+## 🚀 Developer 
+- 💻 Currently coding like there's no semicolon at the end
+- 🤖 training models by day, doomscrolling r/MachineLearning by night
+- 🎯 Goal: Break fewer things... or at least break them better
+- ☕ Come for the code, stay for the chaos
 <!-- - 🛠️ Latest Project: **[Code Like a Pro, Cry Like a Human][project]** -->
+
+---
+
+## 🌐 Connect with Me  
+
+<!-- [![Website - Light](./img/globe-light.svg)](#gh-light-mode-only)   -->
+<!-- [![Website - Dark](./img/globe-dark.svg)](#gh-dark-mode-only)   -->
+
+<span>
+  <a href="https://linkedin.com/in/pavankumarkadambala#gh-light-mode-only">
+    <img src="./img/linkedin-light.svg" height="30" />
+  </a>
+  <a href="https://linkedin.com/in/pavankumarkadambala#gh-dark-mode-only">
+    <img src="./img/linkedin-dark.svg" height="30" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/pavann._.kumarrr#gh-light-mode-only">
+    <img src="./img/instagram-light.svg" height="30" />
+  </a>
+  <a href="https://www.instagram.com/pavann._.kumarrr#gh-dark-mode-only">
+    <img src="./img/instagram-dark.svg" height="30" />
+  </a>
+</span>
 
 ---
 
@@ -48,29 +70,6 @@
 <p align="left">  
   <img src="./img/Visual%20Studio%20Code%20(VS%20Code).svg" alt="VS Code" width="36px" style="padding-right:12px;" />  
 </p>
-
----
-
-## 🌐 Connect with Me  
-
-<!-- [![Website - Light](./img/globe-light.svg)](#gh-light-mode-only)   -->
-<!-- [![Website - Dark](./img/globe-dark.svg)](#gh-dark-mode-only)   -->
-
-<span>
-  <a href="https://linkedin.com/in/pavankumarkadambala#gh-light-mode-only">
-    <img src="./img/linkedin-light.svg" height="30" />
-  </a>
-  <a href="https://linkedin.com/in/pavankumarkadambala#gh-dark-mode-only">
-    <img src="./img/linkedin-dark.svg" height="30" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/pavann._.kumarrr#gh-light-mode-only">
-    <img src="./img/instagram-light.svg" height="30" />
-  </a>
-  <a href="https://www.instagram.com/pavann._.kumarrr#gh-dark-mode-only">
-    <img src="./img/instagram-dark.svg" height="30" />
-  </a>
-</span>
 
 ---
 
